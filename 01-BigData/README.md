@@ -8,6 +8,10 @@ Ce projet explore et nettoie le jeu de données open data recensant les radars f
 - L'analyse par type de radar (ETD, ETF, ETT, ETU, ETVM, ETFR, ETPN) et l'identification des cas où la VMA (Vitesse Maximale Autorisée) est structurellement absente
 - Des visualisations : répartition des radars par VMA, évolution du nombre d'installations par année, cartographie des radars
 
+## Lien vers la vidéo explicative
+
+https://youtu.be/RNGRSpq0bQg
+
 ## Source des données
 
 Jeu de données : *Liste des radars fixes en France* (https://www.data.gouv.fr/datasets/liste-des-radars-fixes-en-france), format CSV, séparateur `;`, encodage Latin-1.
